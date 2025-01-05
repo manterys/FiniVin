@@ -10,17 +10,17 @@ Website template for a restaurant, using a serif font. Multipage website with Li
 :poland:
 Szablon strony dla restauracji, z użyciem czcionki szerofywej. Strona typu multipage na której zamieszczony jest Lightbox z galerią zdjęć oraz Testimonial z opiniami. Znajdziemy tu również formularz kontaktowy, który wyśle wiadomość na Twojego emaila.
 
-### :star2: <a href="https://damiankoduje.pl/finivin/index.html">Demo</a>
+### :star2: [Demo](https://damiankoduje.pl/finivin/index.html)
 
 ### Credits:
-- <a href="https://tailwindcss.com/">Tailwind</a>
-- <a href="https://www.pexels.com">Pexels</a>
-- <a href="https://fonts.google.com/specimen/Crimson+Pro">Crimson  Pro</a>
-- <a href="https://fonts.google.com/specimen/Cormorant +Garamond">Cormorant Garamond</a>
-- <a href="https://fonts.google.com/specimen/Inter">Inter</a>
-- <a href="https://michalsnik.github.io/aos">AOS</a>
-- <a href="https://biati-digital.github.io/glightbox">GLightbox</a>
-- <a href="https://swiperjs.com/">Swiper</a>
+- [Tailwind](https://tailwindcss.com)
+- [Pexels](https://www.pexels.com)
+- [Crimson  Pro](https://fonts.google.com/specimen/Crimson+Pro)
+- [Cormorant Garamond](https://fonts.google.com/specimen/Cormorant+Garamond)
+- [Inter](https://fonts.google.com/specimen/Inter)
+- [AOS](https://michalsnik.github.io/aos)
+- [GLightbox](https://biati-digital.github.io/glightbox)
+- [Swiper](https://swiperjs.com)
 
 
 ### :slightly_smiling_face: Template created by [Damiankoduje.pl](https://damiankoduje.pl)
