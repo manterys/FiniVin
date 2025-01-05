@@ -14,34 +14,34 @@
 
   <!-- Tailwind -->
   <script src="https://cdn.tailwindcss.com"></script>
-  <script src="./js/tailwind.config.js"></script>
+  <script src="js/tailwind.config.js"></script>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="./css/aos.css" />
-  <link rel="stylesheet" href="./css/main.css" />
+  <link rel="stylesheet" href="css/aos.css" />
+  <link rel="stylesheet" href="css/main.css" />
 
   <!-- Favicons -->
-  <link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png" />
 
   <title>Fini Vin - Darmowe strony internetowe | Damiankoduje.pl</title>
 </head>
 
-<body class="bg-white text-primary font-serif">
+<body class="bg-white text-[#131313] font-serif">
   <!-- Header -->
   <header id="header" class="z-40 fixed top-0 w-full py-4 md:py-6 transition-colors duration-200">
     <div class="container flex justify-between items-center">
 
       <!-- Logo -->
-      <a href="./index.html" class="z-50 font-serif2 text-3xl tracking-tight">Fini Vin</a>
+      <a href="index.html" class="z-50 font-serif2 text-3xl tracking-tight">Fini Vin</a>
 
       <!-- Navigation -->
       <div class="hidden md:flex gap-x-10 text-2xl font-extralight">
-        <a href="./index.html" class="hover:text-amber-700 transition-colors">Home</a>
-        <a href="./menu.html" class="hover:text-amber-700 transition-colors">Menu</a>
-        <a href="./about.html" class="hover:text-amber-700 transition-colors">O nas</a>
-        <a href="./contact.html" class="hover:text-amber-700 transition-colors">Kontakt</a>
+        <a href="index.html" class="hover:text-amber-700 transition-colors">Home</a>
+        <a href="menu.html" class="hover:text-amber-700 transition-colors">Menu</a>
+        <a href="about.html" class="hover:text-amber-700 transition-colors">O nas</a>
+        <a href="contact.html" class="hover:text-amber-700 transition-colors">Kontakt</a>
       </div>
 
       <!-- Hamburger Icon -->
@@ -54,11 +54,11 @@
       <!-- Mobile Navigation -->
       <div
         class="menu absolute top-0 left-0 -translate-y-full transition-transform duration-500 w-full bg-white md:hidden">
-        <div class="flex flex-col gap-y-2 items-center py-20 leading-10 text-3xl text-primary font-light">
-          <a href="./index.html">Home</a>
-          <a href="./menu.html">Menu</a>
-          <a href="./about.html">O nas</a>
-          <a href="./contact.html">Kontakt</a>
+        <div class="flex flex-col gap-y-2 items-center py-20 leading-10 text-3xl font-light">
+          <a href="index.html">Home</a>
+          <a href="menu.html">Menu</a>
+          <a href="about.html">O nas</a>
+          <a href="contact.html">Kontakt</a>
         </div>
       </div>
     </div>
@@ -280,9 +280,10 @@
     </div>
   </div>
 
-  <script src="./js/aos.js"></script>
-  <script src="./js/script.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/script.js"></script>
   <script>
+    aos();
     menu();
   </script>
 </body>

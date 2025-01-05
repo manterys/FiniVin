@@ -11,9 +11,6 @@ tailwind.config = {
       },
     },
     extend: {
-      colors: {
-        primary: "#0C0B0B",
-      },
       fontFamily: {
         serif: ["Crimson Pro", "serif"],
         serif2: ["Cormorant Garamond", "serif"],

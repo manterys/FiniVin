@@ -87,13 +87,11 @@ function form() {
 }
 
 // AOS
-        // https://github.com/michalsnik/aos
-        AOS.init({
-          duration: 700,
-          offset: 150,
-          once: true,
-        });
-
-// menu();
-// appGlightbox();
-// slider();
+function aos() {
+  AOS.init({
+      duration: 700,
+      offset: 150,
+      once: true,
+  
+  });
+}

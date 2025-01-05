@@ -3,7 +3,7 @@
 
 HTML5 / CSS3 / TAILWIND
 
-![CHEESE!](finivin.jpg)
+![CHEESE!](images/miniature.jpg)
 
 Website template for a restaurant, using a serif font. Multipage website with Lightbox with a photo gallery and Testimonial with opinions. There is also a contact form that will send a message to your email.
 
