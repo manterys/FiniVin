@@ -1,9 +1,10 @@
-# FiniVin
-### HTML5 / CSS3 / TAILWIND
+## FiniVin
+### Restaurant website template
+**HTML5 / CSS3 / TAILWIND**
 
 ![CHEESE!](finivin.jpg)
 
-A website template for a restaurant, using a serif font. A multipage website with a Lightbox with a photo gallery and a Testimonial with opinions. There is also a contact form that will send a message to your email.
+Website template for a restaurant, using a serif font. Multipage website with Lightbox with a photo gallery and Testimonial with opinions. There is also a contact form that will send a message to your email.
 
 :poland:
 Szablon strony dla restauracji, z użyciem czcionki szerofywej. Strona typu multipage na której zamieszczony jest Lightbox z galerią zdjęć oraz Testimonial z opiniami. Znajdziemy tu również formularz kontaktowy, który wyśle wiadomość na Twojego emaila.
