@@ -1,0 +1,70 @@
+/* Hamburger Menu */
+.hamburger {
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+  transition: all 0.25s;
+  position: relative;
+}
+
+.hamburger-top,
+.hamburger-middle,
+.hamburger-bottom {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 2px;
+  background: #0c0b0b;
+  transform: rotate(0deg);
+  transition: all 0.5s;
+}
+.hamburger-middle {
+  transform: translateY(8px);
+}
+.hamburger-bottom {
+  transform: translateY(16px);
+}
+.open {
+  transform: rotate(90deg);
+  transform: translateY(0px);
+}
+.open .hamburger-top {
+  transform: rotate(45deg) translateY(6px) translate(6px);
+}
+.open .hamburger-middle {
+  opacity: 0;
+}
+.open .hamburger-bottom {
+  transform: rotate(-45deg) translateY(6px) translate(-6px);
+}
+.scrolled {
+  background-color: white;
+}
+
+/* Home Background Cover */
+.home::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+/* Testimonials */
+.swiper {
+  padding-bottom: 7rem;
+}
+.swiper-slide {
+  position: relative;
+  cursor: pointer;
+}
+.swiper-pagination-bullet {
+  margin: 0 6px;
+  background-color: #0c0b0b;
+  width: 12px;
+  height: 12px;
+  transition: background-color 0.2s ease;
+}
