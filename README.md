@@ -1,5 +1,5 @@
 ## FiniVin
-**Restaurant website template**
+### Restaurant website template
 
 HTML5 / CSS3 / TAILWIND
 
