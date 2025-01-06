@@ -12,6 +12,8 @@ Szablon strony dla restauracji, z użyciem czcionki szerofywej. Strona typu mult
 
 ## :star2: [Demo](https://damiankoduje.pl/templates/finivin/index.html)
 
+
+
 **Framework CSS:**
 - [Tailwind](https://tailwindcss.com)
 
