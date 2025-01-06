@@ -10,7 +10,7 @@ Website template for a restaurant, using a serif font. Multipage website with Li
 :poland:
 Szablon strony dla restauracji, z użyciem czcionki szerofywej. Strona typu multipage na której zamieszczony jest Lightbox z galerią zdjęć oraz Testimonial z opiniami. Znajdziemy tu również formularz kontaktowy, który wyśle wiadomość na Twojego emaila.
 
-### :star2: [Demo](https://damiankoduje.pl/finivin/index.html)
+### :star2: [Demo](https://damiankoduje.pl/templates/finivin/index.html)
 
 ### Credits:
 - [Tailwind](https://tailwindcss.com)
